@@ -3,7 +3,7 @@ My Repo tracking my journey, to be the one who catches the **Biggest and Baddest
 
 <p align="center">
     <img src="https://png.pngtree.com/png-vector/20220929/ourmid/pngtree-a-hunter-with-a-gun-sneaks-up-png-image_6229371.png" width="300">
-    <img src="https://www.financialexpress.com/wp-content/uploads/2024/02/david-clode-vec5yfUvCGs-unsplash-1.jpg" height ="200" width="330">
+    <img src="https://www.financialexpress.com/wp-content/uploads/2024/02/david-clode-vec5yfUvCGs-unsplash-1.jpg" height ="300" width="330">
 </p>
 
 ### 📜 Preamble  
