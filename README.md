@@ -15,8 +15,8 @@ I will only focus on programming concepts and Python language from **March 14th 
 
 ## ✅ Checklist  
 - [ ] 🔰 Beginner Level (Python Basics)
-    - [ ] 1️⃣ Understanding Python & Setting Up Environment
-    - [ ] 2️⃣ Basic Syntax & Data Types
+    - [x] 1️⃣ Understanding Python & Setting Up Environment
+    - [x] 2️⃣ Basic Syntax & Data Types
     - [ ] 3️⃣ Operators & Expressions
     - [ ] 4️⃣ Control Flow
     - [ ] 5️⃣ Functions & Scope
