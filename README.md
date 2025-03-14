@@ -12,7 +12,7 @@ I will only focus on programming concepts and Python language from **March 14th 
 ---
 
 ## ✅ Checklist  
-- [x] Complete Python Basics 🐍  
+- [ ] Complete Python Basics 🐍  
 - [ ] Learn Object-Oriented Programming (OOP) 📦  
 - [ ] Master Data Structures & Algorithms 📊  
 - [ ] Build 3+ Python Projects 🚀  
@@ -20,3 +20,28 @@ I will only focus on programming concepts and Python language from **March 14th 
 - [ ] Solve at least 50 Leetcode problems 🧠  
 - [ ] Contribute to an open-source project 👨‍💻  
 - [ ] Create a portfolio for my Python projects 🌟  
+
+---
+
+## 📅 **Progress Tracker**  
+| Date | Task | Status | Notes |
+|------|------|--------|-------|
+| 2024-03-14 | Started Python Basics | 🟡 In Progress | Watched Python intro videos |
+| 2024-03-15 | Completed Python Basics | ✅ Done | Practiced loops and functions |
+| 2024-03-16 | Started OOP Concepts | 🟡 In Progress | Working on classes and objects |
+| 2024-03-18 | Mastering Data Structures | 🔴 Not Started | Need to plan study materials |
+
+---
+
+### **💡 How This Works:**
+✔ **Date column** → Track when you work on each task  
+✔ **Task column** → The topic you're working on  
+✔ **Status column** → Use ✅ (Done), 🟡 (In Progress), 🔴 (Not Started)  
+✔ **Notes column** → Add personal insights, challenges, or milestones  
+
+---
+
+### **🔥 Stay Motivated!**
+This will keep you **accountable** and help you **track** your Python progress! 🚀🐍  
+
+Would you like an automated way to update the date when tasks are completed? Let me know! 👨‍💻  
