@@ -48,7 +48,8 @@ I will only focus on programming concepts and Python language from **March 14th 
     - [ ] 1️⃣ Contribute to Open Source
     - [ ] 2️⃣ Master One Specialization
     - [ ] 3️⃣ Keep Learning!
-
+### ⚠️ **Disclaimer**  
+#### This **checklist is AI-generated and may NOT BE OPTIMAL. Please validate information before using it for learning purposes.  
 ---
 
 ## 📅 **Progress Tracker**  
@@ -64,6 +65,8 @@ I will only focus on programming concepts and Python language from **March 14th 
 ### **🔥 Stay Motivated!**
 This will keep me **accountable** and help me **track** my Python progress!
 #### Daily Quote :
-    hi
+    "The only way to do great work is to love what you do."
+                                                    – Steve Jobs  
+
 
 ---
