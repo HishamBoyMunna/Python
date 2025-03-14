@@ -45,5 +45,3 @@ I will only focus on programming concepts and Python language from **March 14th 
 This will keep me **accountable** and help me **track** my Python progress!
 #### Daily Quote :
     hi
-
-Would you like an automated way to update the date when tasks are completed? Let me know! 👨‍💻  
