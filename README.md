@@ -55,10 +55,9 @@ I will only focus on programming concepts and Python language from **March 14th 
 ## 📅 **Progress Tracker**  
 | Date | Task | Status | Notes |
 |------|------|--------|-------|
-| 2024-03-14 | Started Python Basics | 🟡 In Progress | Watched Python intro videos |
-| 2024-03-15 | Completed Python Basics | ✅ Done | Practiced loops and functions |
-| 2024-03-16 | Started OOP Concepts | 🟡 In Progress | Working on classes and objects |
-| 2024-03-18 | Mastering Data Structures | 🔴 Not Started | Need to plan study materials |
+| 2024-03-14 | Setup python Environment & Completed Python Basics | ✅ Done | Learned from chatGPT |
+| 2024-03-15 | - | 🟡 In Progress | - |
+| 2024-03-16 | - | 🔴 Not Started | - |
 
 ---
 
