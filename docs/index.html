@@ -1,23 +1,80 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Countdown</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countdown to May 31st</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2);
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        .countdown {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            font-size: 2em;
+            margin-top: 20px;
+        }
+        .time-box {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 10px 20px;
+            border-radius: 5px;
+            min-width: 80px;
+        }
+        span {
+            display: block;
+            font-size: 0.5em;
+            margin-top: 5px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Countdown to New Year: <span id="countdown"></span></h1>
+    <div class="container">
+        <h1>Countdown to Showdown</h1>
+        <div class="countdown">
+            <div class="time-box"><span id="days">00</span>Days</div>
+            <div class="time-box"><span id="hours">00</span>Hours</div>
+            <div class="time-box"><span id="minutes">00</span>Minutes</div>
+            <div class="time-box"><span id="seconds">00</span>Seconds</div>
+        </div>
+    </div>
 
     <script>
         function updateCountdown() {
-            let endDate = new Date("Dec 31, 2025 23:59:59").getTime();
-            let now = new Date().getTime();
-            let timeLeft = endDate - now;
+            const targetDate = new Date("May 31, 2025 23:59:59").getTime();
+            const now = new Date().getTime();
+            const timeLeft = targetDate - now;
 
-            let days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
-            document.getElementById("countdown").innerText = days + " days left";
+            const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+
+            document.getElementById("days").innerText = days;
+            document.getElementById("hours").innerText = hours;
+            document.getElementById("minutes").innerText = minutes;
+            document.getElementById("seconds").innerText = seconds;
         }
-
         setInterval(updateCountdown, 1000);
         updateCountdown();
     </script>
 </body>
 </html>
+
