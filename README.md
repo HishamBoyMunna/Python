@@ -12,14 +12,38 @@ I will only focus on programming concepts and Python language from **March 14th 
 ---
 
 ## ✅ Checklist  
-- [ ] Complete Python Basics 🐍  
-- [ ] Learn Object-Oriented Programming (OOP) 📦  
-- [ ] Master Data Structures & Algorithms 📊  
-- [ ] Build 3+ Python Projects 🚀  
-- [ ] Explore Python Libraries (Pandas, NumPy, etc.) 🛠️  
-- [ ] Solve at least 50 Leetcode problems 🧠  
-- [ ] Contribute to an open-source project 👨‍💻  
-- [ ] Create a portfolio for my Python projects 🌟  
+- [ ] 🔰 Beginner Level (Python Basics)
+    - [ ] 1️⃣ Understanding Python & Setting Up Environment
+    - [ ] 2️⃣ Basic Syntax & Data Types
+    - [ ] 3️⃣ Operators & Expressions
+    - [ ] 4️⃣ Control Flow
+    - [ ] 5️⃣ Functions & Scope
+    - [ ] 6️⃣ Basic Data Structures
+    - [ ] 7️⃣ File Handling
+    - [ ] 8️⃣ Basic Exception Handling
+    - [ ] 9️⃣ Basic Libraries to Learn
+    - [ ] 🔟 Practice Projects
+- [ ] 🔰 Intermediate Level (Object-Oriented & Advanced Python)
+    - [ ] 1️⃣ Object-Oriented Programming (OOP)
+    - [ ] 2️⃣ Intermediate Data Structures & Algorithms
+    - [ ] 3️⃣ Decorators & Generators
+    - [ ] 4️⃣ Regular Expressions (re Module)
+    - [ ] 5️⃣ Working with Databases
+    - [ ] 6️⃣ Web Scraping
+    - [ ] 7️⃣ API Development
+    - [ ] 8️⃣ Multithreading & Multiprocessing
+    - [ ] 9️⃣ Asynchronous Programming
+    - [ ] 🔟 Intermediate Libraries to Learn
+    - [ ] 1️⃣1️⃣ Intermediate Projects
+- [ ] 🔰 Advanced Level (Performance, Security & AI)
+    - [ ] 1️⃣ Memory Management & Performance Optimization
+    - [ ] 2️⃣ Concurrency & Parallelism
+    - [ ] 3️⃣ Security Best Practices
+    - [ ] 4️⃣ Machine Learning & Data Science
+    - [ ] 5️⃣ DevOps & Cloud Computing
+    - [ ] 6️⃣ System Programming & Networking
+    - [ ] 7️⃣ Advanced Libraries to Learn
+    - [ ] 8️⃣ Advanced Projects
 
 ---
 
@@ -33,15 +57,9 @@ I will only focus on programming concepts and Python language from **March 14th 
 
 ---
 
-### **💡 How This Works:**
-✔ **Date column** → Track when you work on each task  
-✔ **Task column** → The topic you're working on  
-✔ **Status column** → Use ✅ (Done), 🟡 (In Progress), 🔴 (Not Started)  
-✔ **Notes column** → Add personal insights, challenges, or milestones  
-
----
-
 ### **🔥 Stay Motivated!**
 This will keep me **accountable** and help me **track** my Python progress!
 #### Daily Quote :
     hi
+
+---
