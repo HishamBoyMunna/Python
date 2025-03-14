@@ -44,6 +44,10 @@ I will only focus on programming concepts and Python language from **March 14th 
     - [ ] 6️⃣ System Programming & Networking
     - [ ] 7️⃣ Advanced Libraries to Learn
     - [ ] 8️⃣ Advanced Projects
+- [ ] 🔰 Exper Level
+    - [ ] 1️⃣ Contribute to Open Source
+    - [ ] 2️⃣ Master One Specialization
+    - [ ] 3️⃣ Keep Learning!
 
 ---
 
