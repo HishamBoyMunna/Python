@@ -1,6 +1,8 @@
 # 🐍 Python [![Live Countdown](https://img.shields.io/static/v1?label=Countdown&message=Click%20Here&color=blue)](https://github.com/HishamBoyMunna/Python/blob/6c59ab494ef3ba22607688135be5b4aa25a547b8/README/countdown.html)
 My Repo tracking my journey, to be the one who catches the **Biggest and Baddest** Python in the Amazon forest!
 
+![Countdown](https://img.shields.io/badge/Remaining-79%20days-purple?style=for-the-badge&logo=firefox&logoColor=white&labelColor=darkblue)
+
 <p align="center">
     <img src="https://png.pngtree.com/png-vector/20220929/ourmid/pngtree-a-hunter-with-a-gun-sneaks-up-png-image_6229371.png" width="300">
     <img src="https://www.financialexpress.com/wp-content/uploads/2024/02/david-clode-vec5yfUvCGs-unsplash-1.jpg" height ="225" width="330">
