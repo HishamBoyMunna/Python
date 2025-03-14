@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Countdown</title>
+</head>
+<body>
+    <h1>Countdown to New Year: <span id="countdown"></span></h1>
+
+    <script>
+        function updateCountdown() {
+            let endDate = new Date("Dec 31, 2025 23:59:59").getTime();
+            let now = new Date().getTime();
+            let timeLeft = endDate - now;
+
+            let days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+            document.getElementById("countdown").innerText = days + " days left";
+        }
+
+        setInterval(updateCountdown, 1000);
+        updateCountdown();
+    </script>
+</body>
+</html>
