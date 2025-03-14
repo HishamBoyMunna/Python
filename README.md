@@ -1,4 +1,4 @@
-# 🐍 Python [![Live Countdown](https://img.shields.io/static/v1?label=Countdown&message=Click%20Here&color=blue)](https://your-username.github.io/repository-name/docs/)
+# 🐍 Python [![Live Countdown](https://img.shields.io/static/v1?label=Countdown&message=Click%20Here&color=blue)](https://your-username.github.io/repository-name/docs/index.html)
 My Repo tracking my journey, to be the one who catches the **Biggest and Baddest** Python in the Amazon forest!
 
 ![Countdown](https://img.shields.io/badge/Remaining-79%20days-purple?style=for-the-badge&logo=firefox&logoColor=white&labelColor=darkblue)
