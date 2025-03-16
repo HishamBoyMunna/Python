@@ -1,7 +1,7 @@
 # 🐍 Python [![Live Countdown](https://img.shields.io/static/v1?label=Countdown&message=Click%20Here&color=blue)](https://hishamboymunna.github.io/Python/)
 My Repo tracking my journey, to be the one who catches the **Biggest and Baddest** Python in the Amazon forest!
 
-![Countdown](https://img.shields.io/badge/Remaining-79%20days-purple?style=for-the-badge&logo=firefox&logoColor=white&labelColor=darkblue)
+![Countdown](https://img.shields.io/badge/Remaining-78%20days-purple?style=for-the-badge&logo=firefox&logoColor=white&labelColor=darkblue)
 
 <p align="center">
     <img src="https://png.pngtree.com/png-vector/20220929/ourmid/pngtree-a-hunter-with-a-gun-sneaks-up-png-image_6229371.png" width="300">
