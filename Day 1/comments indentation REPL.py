@@ -23,6 +23,8 @@ print("Let's learn Python!")
 def add(a, b):
     """This function adds two numbers and returns the result."""
     return a + b
+help(add)
+print(add.__doc__)
 
 # 2.indentation in python
 if True:
