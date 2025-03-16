@@ -57,7 +57,7 @@ I will only focus on programming concepts and Python language from **March 14th 
 ## 📅 **Progress Tracker**  
 | Date | Task | Status | Notes |
 |------|------|--------|-------|
-| 2024-03-16 | Setup python Environment & Completed Python Basics | ✅ Done | [1️⃣](./Day 1) |
+| 2024-03-16 | Setup python Environment & Completed Python Basics | ✅ Done | [1️⃣](https://github.com/HishamBoyMunna/Python/tree/ae07b2580829d489ed2f960c4cbe826a9eef26eb/Day%201) |
 | 2024-03-15 | - | 🟡 In Progress | - |
 | 2024-03-16 | - | 🔴 Not Started | - |
 
