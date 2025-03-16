@@ -3,3 +3,16 @@ pip : builtin (update)
 pyenv : manage multiple version (one global)
 pyenv virtalenvs : venv for specific version (convenient)
 
+pip install --upgrade pip setuptools wheel
+pip install numpy pandas matplotlib requests : common dev tools
+pip install jupyterlab scipy seaborn scikit-learn : Data Science
+pip install flask django fastapi : Web Development
+
+pip install pylint black mypy : auto-completion and syntax
+
+#test a virtual environment
+  pyenv virtualenv 3.13.0 test_env
+  pyenv activate test_env
+  python --version
+  pip list
+  pyenv deactivate
