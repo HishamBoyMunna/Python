@@ -1,0 +1,79 @@
+#install brew first if not installed
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  
+#update
+  brew update && brew upgrade
+  
+#install pyenv
+  brew install pyenv
+  
+#for zsh
+  echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
+  echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
+  echo 'eval "$(pyenv init --path)"' >> ~/.zshrc
+  source ~/.zshrc
+
+#for bash
+  echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
+  echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
+  echo 'eval "$(pyenv init --path)"' >> ~/.bashrc
+  source ~/.bashrc
+
+#verify
+  pyenv --version
+
+#install python 3.13.0
+  pyenv install 3.13.0
+
+#list available python versions
+  pyenv install --list
+
+#set python 3.13 as global version
+  pyenv global 3.13.0
+
+#check python installation
+  python --version
+
+#verify pip
+  python -m pip --version
+#if missing install
+  python -m ensurepip --default-pip
+#upgrade
+  pip install --upgrade pip
+
+#to manage multiple virtual environments 
+  brew install pyenv-virtualenv
+#configure for zsh
+  echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.zshrc
+  source ~/.zshrc
+#configure for bash
+  echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bashrc
+  source ~/.bashrc
+
+#create and use a virtual env
+  pyenv virtualenv 3.13.0 myenv
+#activate
+  pyenv activate myenv
+#install packages
+  pip install numpy pandas matplotlib
+#deactivate
+  pyenv deactivate
+#list all virtual envs
+  pyenv virtualenvs
+
+#final check
+  python --version
+  pip --version
+  pyenv --version
+  pyenv virtualenvs
+  
+
+
+
+
+
+
+
+
+
+  
