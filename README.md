@@ -57,7 +57,7 @@ I will only focus on programming concepts and Python language from **March 14th 
 ## 📅 **Progress Tracker**  
 | Date | Task | Status | Notes |
 |------|------|--------|-------|
-| 2024-03-14 | Setup python Environment & Completed Python Basics | ✅ Done | Learned from chatGPT |
+| 2024-03-16 | Setup python Environment & Completed Python Basics | ✅ Done | [🍏](https://github.com/HishamBoyMunna/Python/tree/1d362151e95c41948c213db04e8fc9365b6d0049/setup/macOS) |
 | 2024-03-15 | - | 🟡 In Progress | - |
 | 2024-03-16 | - | 🔴 Not Started | - |
 
