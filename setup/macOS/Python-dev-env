@@ -1,0 +1,5 @@
+python : latest stable version --brew or official
+pip : builtin (update)
+pyenv : manage multiple version (one global)
+pyenv virtalenvs : venv for specific version (convenient)
+
