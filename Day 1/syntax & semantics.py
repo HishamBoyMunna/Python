@@ -93,7 +93,7 @@ square = lambda x: x * x
 print(square(4))  # 16
 
 #import module
-import math
+import math        #specificity and alias
 print(math.sqrt(16))  # 4.0
 #create module
 def add(x, y):  #mymodule.py
